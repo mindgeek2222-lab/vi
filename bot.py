@@ -17,8 +17,8 @@ if not TOKEN:
 bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
 
 # ---------------- MESSAGES ----------------
-INVITE_MESSAGE = """Invite Code: <code>ADZ3U</code>
-🔗 Link: https://ttier.xyz/register?i=ADZ3U
+INVITE_MESSAGE = """Invite Code: <code>5MJ3P</code>
+🔗 Link: http://ptier.xyz/register?i=5MJ3P
 """
 
 CONTACT_MESSAGE = "Contact to buy:\nhttps://t.me/jihan_og"
@@ -74,4 +74,5 @@ def run_bot():
 # ---------------- MAIN ----------------
 if __name__ == "__main__":
     Thread(target=run_bot).start()
+
     run_web()
