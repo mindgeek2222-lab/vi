@@ -21,7 +21,7 @@ INVITE_MESSAGE = """Invite Code: <code>5MJ3P</code>
 🔗 Link: http://ptier.xyz/register?i=5MJ3P
 """
 
-CONTACT_MESSAGE = "Contact to buy:\nhttps://t.me/jihan_og"
+CONTACT_MESSAGE = "Contact to buy:\nhttps://t.me/Don_marlon333"
 
 # ---------------- KEYBOARD ----------------
 def main_keyboard():
@@ -76,3 +76,4 @@ if __name__ == "__main__":
     Thread(target=run_bot).start()
 
     run_web()
+
